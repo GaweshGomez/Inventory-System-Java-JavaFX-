@@ -1,0 +1,7 @@
+DL001,Jude Tharusha,0726346789,Kandy
+DL002,Yeran Kalumarakkala,0712348765,Horovpathana
+DL003,Gawesh Gomes,0761328236,MountLavinia
+DL004,Nihil Rupasinghe,0778787832,Hambanthota
+DL005,Minuri Rajapaksha,0711250395,Nugegoda
+DL006,Sachin Upendra,0719908802,Moratuwa
+
